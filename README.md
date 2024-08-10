@@ -1,0 +1,2 @@
+# AutomaticSpeechRecognition
+Python GUI application for AutomaticSpeechRecognition
