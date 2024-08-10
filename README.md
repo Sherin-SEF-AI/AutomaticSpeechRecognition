@@ -3,8 +3,7 @@ Python GUI application for AutomaticSpeechRecognition
 
 
 
-markdown
-Copy code
+
 # Automatic Speech Recognition with Audio Analysis
 
 ## Overview
