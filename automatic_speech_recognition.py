@@ -188,7 +188,7 @@ class SpeechRecognitionApp(QMainWindow):
 
         url = "https://chatgpt-42.p.rapidapi.com/whisperv3"
         headers = {
-            "x-rapidapi-key": "2d7198105fmsha78df4c828aea6ep182ce4jsn6a513052a904",
+            "x-rapidapi-key": "",
             "x-rapidapi-host": "chatgpt-42.p.rapidapi.com",
         }
 
